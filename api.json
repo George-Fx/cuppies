@@ -1067,21 +1067,24 @@
       "image": "https://george-fx.github.io/funiq/resources/banners/01.jpg",
       "titleLine1": "spring discounts",
       "titleLine2": "on leather chairs",
-      "btnText": "shop now"
+      "btnText": "shop now",
+      "position": 1
     },
     {
       "id": "1",
       "image": "https://george-fx.github.io/funiq/resources/banners/02.jpg",
       "titleLine1": "Dining chairs",
       "titleLine2": "with 10% off",
-      "btnText": "shop now"
+      "btnText": "shop now",
+      "position": 2
     },
     {
       "id": "1",
       "image": "https://george-fx.github.io/funiq/resources/banners/03.jpg",
       "titleLine1": "Soft Wooden",
       "titleLine2": "armchairs 15% off",
-      "btnText": "shop now"
+      "btnText": "shop now",
+      "position": 3
     }
   ],
   "carousel": [
