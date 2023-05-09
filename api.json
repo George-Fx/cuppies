@@ -17,13 +17,7 @@
       "is_sale": true,
       "is_new": false,
       "is_featured": false,
-      "colors": [
-        "color01",
-        "color02",
-        "color03",
-        "color04",
-        "color05"
-      ],
+      "colors": ["color01", "color02", "color03", "color04", "color05"],
       "types": [
         "lighting",
         "Bedding",
@@ -83,13 +77,7 @@
       "is_sale": false,
       "is_new": false,
       "is_featured": false,
-      "colors": [
-        "color01",
-        "color02",
-        "color03",
-        "color04",
-        "color05"
-      ],
+      "colors": ["color01", "color02", "color03", "color04", "color05"],
       "types": [
         "lighting",
         "Bedding",
@@ -149,13 +137,7 @@
       "is_sale": false,
       "is_new": false,
       "is_featured": false,
-      "colors": [
-        "color01",
-        "color02",
-        "color03",
-        "color04",
-        "color05"
-      ],
+      "colors": ["color01", "color02", "color03", "color04", "color05"],
       "types": [
         "lighting",
         "Bedding",
@@ -215,13 +197,7 @@
       "is_sale": false,
       "is_new": false,
       "is_featured": false,
-      "colors": [
-        "color01",
-        "color02",
-        "color03",
-        "color04",
-        "color05"
-      ],
+      "colors": ["color01", "color02", "color03", "color04", "color05"],
       "types": [
         "lighting",
         "Bedding",
@@ -281,13 +257,7 @@
       "is_sale": false,
       "is_new": false,
       "is_featured": false,
-      "colors": [
-        "color01",
-        "color02",
-        "color03",
-        "color04",
-        "color05"
-      ],
+      "colors": ["color01", "color02", "color03", "color04", "color05"],
       "types": [
         "lighting",
         "Bedding",
@@ -347,13 +317,7 @@
       "is_sale": false,
       "is_new": false,
       "is_featured": false,
-      "colors": [
-        "color01",
-        "color02",
-        "color03",
-        "color04",
-        "color05"
-      ],
+      "colors": ["color01", "color02", "color03", "color04", "color05"],
       "types": [
         "lighting",
         "Bedding",
@@ -413,13 +377,7 @@
       "is_sale": false,
       "is_new": false,
       "is_featured": true,
-      "colors": [
-        "color01",
-        "color02",
-        "color03",
-        "color04",
-        "color05"
-      ],
+      "colors": ["color01", "color02", "color03", "color04", "color05"],
       "types": [
         "lighting",
         "Bedding",
@@ -479,13 +437,7 @@
       "is_sale": true,
       "is_new": false,
       "is_featured": true,
-      "colors": [
-        "color01",
-        "color02",
-        "color03",
-        "color04",
-        "color05"
-      ],
+      "colors": ["color01", "color02", "color03", "color04", "color05"],
       "types": [
         "lighting",
         "Bedding",
@@ -545,13 +497,7 @@
       "is_sale": false,
       "is_new": false,
       "is_featured": true,
-      "colors": [
-        "color01",
-        "color02",
-        "color03",
-        "color04",
-        "color05"
-      ],
+      "colors": ["color01", "color02", "color03", "color04", "color05"],
       "types": [
         "lighting",
         "Bedding",
@@ -611,13 +557,7 @@
       "is_sale": false,
       "is_new": false,
       "is_featured": true,
-      "colors": [
-        "color01",
-        "color02",
-        "color03",
-        "color04",
-        "color05"
-      ],
+      "colors": ["color01", "color02", "color03", "color04", "color05"],
       "types": [
         "lighting",
         "Bedding",
@@ -677,13 +617,7 @@
       "is_sale": false,
       "is_new": false,
       "is_featured": true,
-      "colors": [
-        "color01",
-        "color02",
-        "color03",
-        "color04",
-        "color05"
-      ],
+      "colors": ["color01", "color02", "color03", "color04", "color05"],
       "types": [
         "lighting",
         "Bedding",
@@ -744,13 +678,7 @@
       "is_sale": false,
       "is_new": false,
       "is_featured": true,
-      "colors": [
-        "color01",
-        "color02",
-        "color03",
-        "color04",
-        "color05"
-      ],
+      "colors": ["color01", "color02", "color03", "color04", "color05"],
       "types": [
         "lighting",
         "Bedding",
@@ -810,13 +738,7 @@
       "is_sale": false,
       "is_new": false,
       "is_featured": true,
-      "colors": [
-        "color01",
-        "color02",
-        "color03",
-        "color04",
-        "color05"
-      ],
+      "colors": ["color01", "color02", "color03", "color04", "color05"],
       "types": [
         "lighting",
         "Bedding",
@@ -877,13 +799,7 @@
       "is_sale": true,
       "is_new": false,
       "is_featured": true,
-      "colors": [
-        "color01",
-        "color02",
-        "color03",
-        "color04",
-        "color05"
-      ],
+      "colors": ["color01", "color02", "color03", "color04", "color05"],
       "types": [
         "lighting",
         "Bedding",
@@ -938,19 +854,13 @@
       ],
       "description": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
       "price": 24.5,
-      "old_price": 38.00,
+      "old_price": 38.0,
       "rating": 5,
       "is_bestseller": false,
       "is_sale": false,
       "is_new": false,
       "is_featured": true,
-      "colors": [
-        "color01",
-        "color02",
-        "color03",
-        "color04",
-        "color05"
-      ],
+      "colors": ["color01", "color02", "color03", "color04", "color05"],
       "types": [
         "lighting",
         "Bedding",
@@ -1010,13 +920,7 @@
       "is_sale": true,
       "is_new": false,
       "is_featured": true,
-      "colors": [
-        "color01",
-        "color02",
-        "color03",
-        "color04",
-        "color05"
-      ],
+      "colors": ["color01", "color02", "color03", "color04", "color05"],
       "types": [
         "lighting",
         "Bedding",
@@ -1067,24 +971,21 @@
       "image": "https://george-fx.github.io/cuppies/resources/banners/01.jpg",
       "titleLine1": "spring discounts",
       "titleLine2": "on leather chairs",
-      "btnText": "shop now",
-      "position": 1
+      "btnText": "shop now"
     },
     {
       "id": "1",
       "image": "https://george-fx.github.io/cuppies/resources/banners/01.jpg",
       "titleLine1": "Dining chairs",
       "titleLine2": "with 10% off",
-      "btnText": "shop now",
-      "position": 2
+      "btnText": "shop now"
     },
     {
       "id": "1",
       "image": "https://george-fx.github.io/cuppies/resources/banners/01.jpg",
       "titleLine1": "Soft Wooden",
       "titleLine2": "armchairs 15% off",
-      "btnText": "shop now",
-      "position": 3
+      "btnText": "shop now"
     }
   ],
   "carousel": [
