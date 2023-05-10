@@ -14,9 +14,10 @@
       "old_price": 54,
       "rating": 5,
       "is_bestseller": true,
-      "is_sale": true,
-      "is_new": false,
       "is_featured": false,
+      "is_sale": true,
+      "is_top": false,
+      "is_new": false,
       "reviews": [
         {
           "id": 1,
