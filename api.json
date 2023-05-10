@@ -17,6 +17,15 @@
       "is_sale": false,
       "is_top": false,
       "is_new": false,
+      "fillings": [
+        "Chocolate",
+        "Raspberry and cream",
+        "Spinach and feta",
+        "Ham and cheese",
+        "Lemon cream",
+        "Almond",
+        "Maple bacon"
+      ],
       "reviews": [
         {
           "id": 1,
@@ -70,6 +79,15 @@
       "is_sale": true,
       "is_top": false,
       "is_new": false,
+      "fillings": [
+        "Chocolate",
+        "Raspberry and cream",
+        "Spinach and feta",
+        "Ham and cheese",
+        "Lemon cream",
+        "Almond",
+        "Maple bacon"
+      ],
       "reviews": [
         {
           "id": 1,
