@@ -12,7 +12,7 @@
       "description": "Indulge in our freshly baked chocolate croissant, made with the finest ingredients and filled with rich, velvety chocolate. Each croissant is carefully crafted by our skilled bakers to ensure the perfect flaky, buttery texture that will melt in your mouth...",
       "price": 12.7,
       "old_price": 54,
-      "rating": 5,
+      "rating": 5.0,
       "is_bestseller": true,
       "is_featured": false,
       "is_sale": true,
