@@ -3,11 +3,11 @@
     {
       "id": 1,
       "name": "Cheesecake",
-      "image": "https://george-fx.github.io/cuppies/resources/products/01.png",
+      "image": "https://george-fx.github.io/cuppies/resources/products/01.jpg",
       "images": [
-        "https://george-fx.github.io/cuppies/resources/products/01.png",
-        "https://george-fx.github.io/cuppies/resources/products/01.png",
-        "https://george-fx.github.io/cuppies/resources/products/01.png"
+        "https://george-fx.github.io/cuppies/resources/products/01.jpg",
+        "https://george-fx.github.io/cuppies/resources/products/01.jpg",
+        "https://george-fx.github.io/cuppies/resources/products/01.jpg"
       ],
       "description": "Indulge in our freshly baked chocolate croissant, made with the finest ingredients and filled with rich, velvety chocolate. Each croissant is carefully crafted by our skilled bakers to ensure the perfect flaky, buttery texture that will melt in your mouth...",
       "price": 12.7,
