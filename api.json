@@ -213,15 +213,16 @@
     },
     {
       "id": 4,
-      "name": "Vanilla donut",
-      "image": "https://george-fx.github.io/cuppies/resources/products/03.jpg",
+      "name": "Cupcake",
+      "image": "https://george-fx.github.io/cuppies/resources/products/04.jpg",
       "images": [
-        "https://george-fx.github.io/cuppies/resources/products/03.jpg",
-        "https://george-fx.github.io/cuppies/resources/products/03.jpg",
-        "https://george-fx.github.io/cuppies/resources/products/03.jpg"
+        "https://george-fx.github.io/cuppies/resources/products/04.jpg",
+        "https://george-fx.github.io/cuppies/resources/products/04.jpg",
+        "https://george-fx.github.io/cuppies/resources/products/04.jpg"
       ],
       "description": "Indulge in our freshly baked chocolate croissant, made with the finest ingredients and filled with rich, velvety chocolate. Each croissant is carefully crafted by our skilled bakers to ensure the perfect flaky, buttery texture that will melt in your mouth...",
-      "price": 32.6,
+      "price": 24.5,
+      "old_price": 38.0,
       "rating": 5.0,
       "is_bestseller": true,
       "is_featured": false,
