@@ -26,6 +26,21 @@
         "Almond",
         "Maple bacon"
       ],
+      "allergen_information": "Contains wheat, dairy, and eggs. May contain traces of nuts.",
+      "nutrition_information": [
+        {
+          "id": 1,
+          "serving_size": "1 croissant"
+        },
+        {
+          "id": 2,
+          "calories": "320"
+        },
+        {
+          "id": 3,
+          "total_fat": "20"
+        }
+      ],
       "reviews": [
         {
           "id": 1,
