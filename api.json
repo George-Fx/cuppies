@@ -30,7 +30,7 @@
       "nutrition_information": [
         {
           "id": 1,
-          "serving_size": "1 croissant"
+          "serving_size": "cheesecake"
         },
         {
           "id": 2,
@@ -39,6 +39,18 @@
         {
           "id": 3,
           "total_fat": "20"
+        },
+        {
+          "id": 4,
+          "saturated_fat": "12"
+        },
+        {
+          "id": 5,
+          "total_sugars": "9"
+        },
+        {
+          "id": 6,
+          "protein": "6"
         }
       ],
       "reviews": [
