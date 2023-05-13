@@ -213,7 +213,7 @@
     },
     {
       "id": 4,
-      "name": "Cupcake",
+      "name": "Cherry cake",
       "image": "https://george-fx.github.io/cuppies/resources/products/04.jpg",
       "images": [
         "https://george-fx.github.io/cuppies/resources/products/04.jpg",
@@ -221,8 +221,7 @@
         "https://george-fx.github.io/cuppies/resources/products/04.jpg"
       ],
       "description": "Indulge in our freshly baked chocolate croissant, made with the finest ingredients and filled with rich, velvety chocolate. Each croissant is carefully crafted by our skilled bakers to ensure the perfect flaky, buttery texture that will melt in your mouth...",
-      "price": 24.5,
-      "old_price": 38.0,
+      "price": 19,
       "rating": 5.0,
       "is_bestseller": true,
       "is_featured": false,
