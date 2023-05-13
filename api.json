@@ -351,6 +351,76 @@
           "date": "23 Jan"
         }
       ]
+    },
+    {
+      "id": 6,
+      "name": "Brownie",
+      "image": "https://george-fx.github.io/cuppies/resources/products/06.jpg",
+      "images": [
+        "https://george-fx.github.io/cuppies/resources/products/06.jpg",
+        "https://george-fx.github.io/cuppies/resources/products/06.jpg",
+        "https://george-fx.github.io/cuppies/resources/products/06.jpg"
+      ],
+      "description": "Indulge in our freshly baked chocolate croissant, made with the finest ingredients and filled with rich, velvety chocolate. Each croissant is carefully crafted by our skilled bakers to ensure the perfect flaky, buttery texture that will melt in your mouth...",
+      "price": 25.3,
+      "rating": 5.0,
+      "is_bestseller": true,
+      "is_featured": false,
+      "is_sale": true,
+      "is_top": false,
+      "is_new": false,
+      "fillings": [
+        "Chocolate",
+        "Raspberry and cream",
+        "Spinach and feta",
+        "Ham and cheese",
+        "Lemon cream",
+        "Almond",
+        "Maple bacon"
+      ],
+      "allergen_information": "Contains wheat, dairy, and eggs. May contain traces of nuts.",
+      "nutrition_information": {
+        "serving_size": "cheesecake",
+        "calories": "320",
+        "total_fat": "20",
+        "saturated_fat": "12",
+        "total_sugars": "9",
+        "protein": "6"
+      },
+      "reviews": [
+        {
+          "id": 1,
+          "name": "Adrianna Mercado",
+          "image": "https://george-fx.github.io/funiq/resources/reviews/01.jpg",
+          "comment": "Consequat ut ea dolor aliqua laborum tempor Lorem culpa. Commodo veniam sint est mollit proident commodo.",
+          "rating": 5,
+          "date": "23 Jan"
+        },
+        {
+          "id": 2,
+          "name": "Dante Valdez",
+          "image": "https://george-fx.github.io/funiq/resources/reviews/02.jpg",
+          "comment": "Consequat ut ea dolor aliqua laborum tempor Lorem culpa. Commodo veniam sint est mollit proident commodo.",
+          "rating": 5,
+          "date": "23 Jan"
+        },
+        {
+          "id": 3,
+          "name": "Troy Ingram",
+          "image": "https://george-fx.github.io/funiq/resources/reviews/03.jpg",
+          "comment": "Consequat ut ea dolor aliqua laborum tempor Lorem culpa. Commodo veniam sint est mollit proident commodo.",
+          "rating": 5,
+          "date": "23 Jan"
+        },
+        {
+          "id": 4,
+          "name": "Joshua Bean",
+          "image": "https://george-fx.github.io/funiq/resources/reviews/04.jpg",
+          "comment": "Consequat ut ea dolor aliqua laborum tempor Lorem culpa. Commodo veniam sint est mollit proident commodo.",
+          "rating": 5,
+          "date": "23 Jan"
+        }
+      ]
     }
   ],
   "banners": [
