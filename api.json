@@ -634,7 +634,7 @@
     },
     {
       "id": 10,
-      "name": "Robusta coffee beans",
+      "name": "Arabica coffee beans",
       "image": "https://george-fx.github.io/cuppies/resources/products/10.jpg",
       "images": [
         "https://george-fx.github.io/cuppies/resources/products/10.jpg",
@@ -642,8 +642,7 @@
         "https://george-fx.github.io/cuppies/resources/products/10.jpg"
       ],
       "description": "Indulge in our freshly baked chocolate croissant, made with the finest ingredients and filled with rich, velvety chocolate. Each croissant is carefully crafted by our skilled bakers to ensure the perfect flaky, buttery texture that will melt in your mouth...",
-      "price": 3.5,
-      "old_price": 4.0,
+      "price": 2.5,
       "rating": 5.0,
       "is_bestseller": true,
       "is_featured": true,
