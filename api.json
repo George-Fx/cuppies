@@ -1057,21 +1057,21 @@
   ],
   "banners": [
     {
-      "id": "1",
+      "id": 1,
       "image": "https://george-fx.github.io/cuppies/resources/banners/01.jpg",
       "titleLine1": "Fresh-baked cookies",
       "titleLine2": "10% off",
       "btnText": "shop now"
     },
     {
-      "id": "1",
-      "image": "https://george-fx.github.io/cuppies/resources/banners/02.jpg",
-      "titleLine1": "Buy 6, get 2 free",
-      "titleLine2": "donuts!",
+      "id": 2,
+      "image": "https://george-fx.github.io/cuppies/resources/banners/01.jpg",
+      "titleLine1": "Dining chairs",
+      "titleLine2": "with 10% off",
       "btnText": "shop now"
     },
     {
-      "id": "1",
+      "id": 3,
       "image": "https://george-fx.github.io/cuppies/resources/banners/01.jpg",
       "titleLine1": "Soft Wooden",
       "titleLine2": "armchairs 15% off",
